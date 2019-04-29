@@ -4,7 +4,7 @@ The proceedings of Australia's Commonwealth Parliament are recorded in Hansard, 
 
 Run the notebooks in this repository live on MyBinder — just click the button (it might take a little while to load).
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GLAM-Workbench/commonwealth-hansard/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GLAM-Workbench/australian-commonwealth-hansard/master)
 
 You can access a full harvest of the [XML files for both houses between 1901 and 1980 from this repository](https://github.com/wragge/hansard-xml).
 
