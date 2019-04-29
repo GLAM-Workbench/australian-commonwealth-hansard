@@ -1,0 +1,8 @@
+jupyter
+pandas==0.24.2
+requests==2.21.0
+tqdm==4.31.1
+beautifulsoup4==4.7.1
+lxml==4.3.3
+arrow==0.13.1
+
