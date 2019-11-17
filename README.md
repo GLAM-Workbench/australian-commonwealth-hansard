@@ -1,3 +1,7 @@
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3544706.svg)](https://doi.org/10.5281/zenodo.3544706)
+
 # Commonwealth Parliamentary Debates (Hansard)
 
 The proceedings of Australia's Commonwealth Parliament are recorded in Hansard, which is available online through the Parliamentary Library's ParlInfo database. This repository includes Jupyter notebooks to harvest and explore XML formatted versions of Hansard. 
